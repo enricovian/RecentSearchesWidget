@@ -1,0 +1,2 @@
+# RecentSearchesWidget
+Created with CodeSandbox
